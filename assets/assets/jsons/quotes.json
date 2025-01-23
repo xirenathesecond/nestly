@@ -1,0 +1,52 @@
+[
+  {
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "Life"
+  },
+  {
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "author": "Buddha",
+    "category": "Mindfulness"
+  },
+  {
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Success"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "Motivational"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "Perseverance"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "Motivational"
+  }
+]
